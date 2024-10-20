@@ -1,1 +1,2 @@
 print("helloz")
+print("alo")
