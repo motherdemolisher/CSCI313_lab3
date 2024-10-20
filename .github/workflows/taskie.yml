@@ -1,0 +1,10 @@
+name: task3
+on: push
+jobs:
+  j1:
+    runs-on: ubuntu-latest
+    steps:
+    - name: st1
+      run: echo "hi"
+    - name: st2
+      run: echo "helloz"
